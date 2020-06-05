@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prueba Técnica</string>
+    <string name="api_url">https://jsonplaceholder.typicode.com/posts</string>
+    <string name="thumbnail">thumbnail</string>
+
+    <!-- activity_main strings -->
+    <string name="main_welcome">Welcome to the app!</string>
+
+    <!-- list_item strings -->
+    <string name="list_item_postN">Post Number\u0020</string>
+    <string name="list_item_postTitle">Title</string>
+    <string name="list_item_postBody">Body</string>
+    <string name="list_item_postPopUpBtn">OK</string>
+    <string name="list_item_refresPressed">The post list has been updated</string>
+    <string name="list_item_postSeen">Seen</string>
+    <string name="list_item_postUnseen">Unseen</string>
+    <string name="list_item_btnRefresh">Refresh Posts</string>
+    <string name="list_item_btnDelete">DELETE ALL</string>
+    <string name="list_item_btnDeletePressed">All posts have been deleted</string>
+
+</resources>
